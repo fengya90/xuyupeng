@@ -5,18 +5,15 @@ import { enquireScreen } from 'enquire-js';
 
 import Nav0 from './Nav0';
 import Banner0 from './Banner0';
-import Content0 from './Content0';
 import Content1 from './Content1';
 import Footer0 from './Footer0';
 
 import {
   Nav00DataSource,
-  Banner00DataSource,
-  Content00DataSource,
+  Banner00DataSource,  
   Content10DataSource,
   Footer00DataSource,
 } from './data.source';
-import './less/antMotionStyle.less';
 
 let isMobile;
 enquireScreen((b) => {

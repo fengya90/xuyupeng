@@ -6,21 +6,21 @@ const config: IConfig =  {
   routes: [
     {
       path: '/',
-      component: '../home/index',
+      component: '../layouts/index',      
       routes: [
-        { path: '/', component: '../pages/index' }
+        { path: '/', component: '../pages/index' },
+        { path: '/test', component: '../pages/test' }
       ]
     }
   ],
-  disableCSSModules: true,
-  publicPath: "static/",
+  // disableCSSModules: true,  
   plugins: [
     // ref: https://umijs.org/plugin/umi-plugin-react.html
     ['umi-plugin-react', {
       antd: true,
       dva: false,
       dynamicImport: false,
-      title: 'myapp',
+      title: 'xuyupeng',
       dll: false,
       
       routes: {
