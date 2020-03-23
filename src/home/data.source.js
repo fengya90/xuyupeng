@@ -21,6 +21,14 @@ export const Nav00DataSource = {
         name: 'item2',
         className: 'header0-item',
         children: {
+          href: 'https://www.xuyupeng.net/blog/#/',
+          children: [{ children: '博客', name: 'text' }],
+        },
+      },  
+      {
+        name: 'item3',
+        className: 'header0-item',
+        children: {
           href: 'https://xuyupeng.net/book/ntce/#/',
           children: [{ children: '阅读', name: 'text' }],
         },
@@ -69,10 +77,10 @@ export const Footer00DataSource = {
     children: (
       <>
         <span>
-        ©{new Date().getFullYear()} <a href="https://xuyupeng.net">Xu Yupeng</a> All Rights          
-          Reserved
-        </span>
+        ©{new Date().getFullYear()} <a href="https://xuyupeng.net">Xu Yupeng</a> All Rights <a href="http://www.beian.miit.gov.cn/">浙ICP备18013971号-1</a>             
+        </span>      
       </>
+      
     ),
   },
 };
