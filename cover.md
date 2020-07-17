@@ -10,9 +10,10 @@
 - I think you visited the wrong website
 - There are only some boring articles here
 
+[Blog](/blog/)
 
 [Notes](/notes/)
-[Blog](/blog/)
+
 [About me](/about.md)
 
 
