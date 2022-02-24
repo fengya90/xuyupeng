@@ -26,7 +26,7 @@ For more information, refer to [torproject home page](https://www.torproject.org
 
 ## How to visit a dark web site(based on Tor)
 
-The URL of a dark website is usually like something like 'xxxx.onion'. In Tor, we call such a website an onion service
+Dark web URLs are often something like "xxxx.onion". In Tor, we call such a website an onion service.
 
 we need to use a special browser: [Tor Browser](https://www.torproject.org/download/)
 
