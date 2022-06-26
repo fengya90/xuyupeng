@@ -1,8 +1,10 @@
 - computer
-    - [C++ 动态加载共享库](notes/computer/dlopen-cpp.md)
-    - [常用命令](notes/computer/command.md)
-    - [miscellaneous links](notes/computer/misc-links.md)
+  - [C++ 动态加载共享库](notes/computer/dlopen-cpp.md)
+  - [常用命令](notes/computer/command.md)
+  - [miscellaneous links](notes/computer/misc-links.md)
 - network
-    - [Dark Web](notes/network/dark-web.md)
+  - [Dark Web](notes/network/dark-web.md)
 - golang
-    - [golang links](notes/golang/golang-links.md)
+  - [golang links](notes/golang/golang-links.md)
+- python
+  - [short python](notes/python/short-python.md)
