@@ -4,7 +4,6 @@
 
 ![img](https://cdn.xuyupeng.net/pic/hengdian-trip/1.jpg)
 
-<p style="text-align: center;"><span style="color: rgb(178, 178, 178);font-size: 12px;text-align: center;">18年2月7日拍摄于横店</span></p>
 
 
 
@@ -30,7 +29,6 @@
 
 ![img](https://cdn.xuyupeng.net/pic/hengdian-trip/2.jpg)
 
-<p style="text-align: center;"><span style="color: rgb(178, 178, 178);font-size: 12px;text-align: center;">我的行李</span></p>
 
 第一天其实不能算一天，我下午才安排好工作动身出发。中间又一堆私事略过不提，等我到横店，已经很晚了。
 
@@ -48,7 +46,6 @@
 
 ![img](https://cdn.xuyupeng.net/pic/hengdian-trip/3.jpg)
 
-<p style="text-align: center;"><span style="color: rgb(178, 178, 178);font-size: 12px;text-align: center;">青旅里的书籍《演员的自我修养》</span></p>
 
 
 
@@ -98,7 +95,6 @@
 
 ![img](https://cdn.xuyupeng.net/pic/hengdian-trip/4.jpg)
 
-<p style="text-align: center;"><span style="color: rgb(178, 178, 178);font-size: 12px;text-align: center;">横店派出所</span></p>
 
 
 
@@ -110,7 +106,6 @@
 
 ![img](https://cdn.xuyupeng.net/pic/hengdian-trip/5.jpg)
 
-<p style="text-align: center;"><span style="color: rgb(178, 178, 178);font-size: 12px;text-align: center;">演员在线考试</span></p>
 
 吃完午饭，我就去了演员工会，本来以为是直接填表领证，没想到还要做线上测试。不过线上测试都是些脑残题，并不用准备什么。
 
@@ -190,7 +185,6 @@
 
 ![img](https://cdn.xuyupeng.net/pic/hengdian-trip/7.jpg)
 
-<p style="text-align: center;"><span style="color: rgb(178, 178, 178);font-size: 12px;text-align: center;">春秋战国城某剧组</span></p>
 
 这是一个坑爹的早上。
 

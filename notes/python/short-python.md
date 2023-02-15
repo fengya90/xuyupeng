@@ -4,7 +4,6 @@
 
 ### List
 
-
 ```python
 list1 = []
 list2 = list()
@@ -23,13 +22,14 @@ print(list3+list4)
 print(['Hi!'] * 4)
 print(3 in [1, 2, 3])
 for x in [1, 2, 3]:
-     print(x, end=" ")	
+     print(x, end=" ")
 print(len(list4))
 print(max(list4))
 print(min(list4))
 ```
 
 functions
+
 ```python
 list.append(obj)
 list.count(obj)
@@ -46,4 +46,17 @@ def takeSecond(elem):
     return elem[1]
 random = [(2, 2), (3, 4), (4, 1), (1, 3)]
 random.sort(key=takeSecond) 
+```
+
+## Misc
+
+### Random
+
+```python
+import random
+
+random.random() #[0,1)
+random.randint(1,10) # [1,10]
+
+
 ```

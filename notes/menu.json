@@ -1,0 +1,46 @@
+[
+  {
+    "title":"computer",
+    "link_list":[
+      {
+        "title":"C++ 动态加载共享库",
+        "path":"/notes/computer/dlopen-cpp"
+      },
+      {
+        "title":"常用命令",
+        "path":"/notes/computer/command"
+      },
+       {
+        "title":"miscellaneous links",
+        "path":"/notes/computer/misc-links"
+      }
+    ]
+  },
+  {
+    "title":"network",
+    "link_list":[
+      {
+        "title":"Dark Web",
+        "path":"/notes/network/dark-web"
+      }
+    ]
+  },
+  {
+    "title":"golang",
+    "link_list":[
+      {
+        "title":"golang links",
+        "path":"/notes/golang/golang-links"
+      }
+    ]
+  },
+  {
+    "title":"python",
+    "link_list":[
+      {
+        "title":"short python",
+        "path":"/notes/python/short-python"
+      }
+    ]
+  }
+]

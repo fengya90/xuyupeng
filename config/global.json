@@ -1,0 +1,21 @@
+{
+  "title": "Xu Yupeng",
+  "menu_list":[
+    {
+      "title": "Home",
+      "path": "/"
+    },
+    {
+      "title": "Blog",
+      "path": "/blog"
+    },
+    {
+      "title": "notes",
+      "path": "/notes"
+    },
+    {
+      "title": "About",
+      "path": "/about/about"
+    }
+  ]
+}
