@@ -25,6 +25,20 @@
       }
     ]
   },
+ {
+    "title":"database",
+    "link_list":[
+      {
+        "title":"MySQL Gap Locks",
+        "path":"/notes/database/mysql-locks"
+      },
+      {
+        "title":"MySQL Misc",
+        "path":"/notes/database/mysql-misc"
+      }
+
+    ]
+  },
   {
     "title":"golang",
     "link_list":[
