@@ -29,7 +29,7 @@
     "title":"database",
     "link_list":[
       {
-        "title":"MySQL Gap Locks",
+        "title":"MySQL Locks",
         "path":"/notes/database/mysql-locks"
       },
       {
