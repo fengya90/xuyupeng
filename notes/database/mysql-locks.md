@@ -290,6 +290,29 @@ mysql> select LOCK_TYPE,LOCK_MODE,LOCK_DATA from performance_schema.data_locks;
 | RECORD    | X,GAP         | 52, 3     |
 +-----------+---------------+-----------+
 4 rows in set (0.00 sec)
+mysql> select * from user_tab where user_rank  = 50  for update;
+Empty set (0.00 sec)
+
+mysql> select LOCK_TYPE,LOCK_MODE,LOCK_DATA from performance_schema.data_locks;
++-----------+-----------+-----------+
+| LOCK_TYPE | LOCK_MODE | LOCK_DATA |
++-----------+-----------+-----------+
+| TABLE     | IX        | NULL      |
+| RECORD    | X,GAP     | 401, 22   |
++-----------+-----------+-----------+
+2 rows in set (0.01 sec)
+
+mysql> select * from user_tab where age >45 and age<47  for update;
+Empty set (0.00 sec)
+
+mysql> select LOCK_TYPE,LOCK_MODE,LOCK_DATA from performance_schema.data_locks;
++-----------+-----------+-----------+
+| LOCK_TYPE | LOCK_MODE | LOCK_DATA |
++-----------+-----------+-----------+
+| TABLE     | IX        | NULL      |
+| RECORD    | X         | 52, 3     |
++-----------+-----------+-----------+
+2 rows in set (0.00 sec)
 ```
 
 

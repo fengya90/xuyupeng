@@ -10,10 +10,14 @@
       "path": "/blog"
     },
     {
-      "title": "notes",
+      "title": "Notes",
       "path": "/notes"
     },
     {
+      "title": "Recipes",
+      "path": "/recipes/recipes"
+   },
+   {
       "title": "About",
       "path": "/about/about"
     }
