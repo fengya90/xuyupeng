@@ -8,6 +8,9 @@
 
 配料：意大利面，肉沫，番茄酱，也可以加番茄。
 
+示例图片：
+
+![img](pic/recipes/yimian.jpeg)
 
 ## 海鲜饼
 
@@ -26,6 +29,10 @@
 
 配料：方便面，建议用辛拉面，加肉（培根，火腿等），加蛋，加蔬菜，主打一个有什么加什么
 
+示例图片：
+
+![img](pic/recipes/fangbianmian.jpeg)
+
 ## 煎吐司鸡蛋午餐肉
 
 配料：吐司，鸡蛋，午餐肉。
@@ -33,3 +40,17 @@
 示例图片：
 
 ![img](pic/recipes/tusijidanwucanrou.jpeg)
+
+## 英式早餐
+
+
+示例图片：
+
+![img](pic/recipes/yingshizaocan.jpeg)
+
+## 水饺
+
+
+示例图片：
+
+![img](pic/recipes/jiaozi.jpeg)
