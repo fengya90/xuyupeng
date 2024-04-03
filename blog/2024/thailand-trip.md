@@ -1,5 +1,7 @@
 # 泰国2024
 
+> 2024-04-03
+
 ![img](pic/blogs/thailand/thailand2024.jpg)
 
 ## 行前准备
